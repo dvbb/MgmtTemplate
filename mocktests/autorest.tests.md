@@ -7,6 +7,5 @@ require:
   - ../src/autorest.md
 clear-output-folder: true
 skip-csproj: true
-output-folder: $(this-folder)/Generated
-namespace: Azure.ResourceManager.AgriFood
+namespace: Azure.ResourceManager.Template
 ```
